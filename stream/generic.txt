@@ -1,0 +1,26 @@
+I am just starting, I'm at the end of my first semester and did not yet do any exam, no ECTS yet.
+However, everything Psychology related is really hectic, and I read quite a lot, also I read Statistics and Academic Work.
+The issue with reading though is that, even if I read it, it takes a while to sink in.
+I hear unbelievable things, stuff I considered to be folklore such as narcissist personality and Freud from inside out - really!?
+Culturally, I did read a lot, but it is one thing to read for leisure and draw whatever conclusion you want versus to learn for the exam.
+And rats. 1948, Tolman, busy with - you'd never guess. I did see movies about that period. Some featured rats, but never in a lab.
+So this guy, 5 lines of our course. His articles sell with $17 a pop on APA, btw. Following this lead, you find a galaxy of stuff.
+Same go everyone else, this is not just a little learn, it is a gopher list of rat mazes each peppered with countless rabbit holes.
+Yeah, it takes a while to sink in. Theoretically, you read it, you know something. Did something with rats in mazes, published.
+But it is not just Tolman. So is everyone else. Just like looking at a beautiful painting of a field full of flowers. Think - everything.
+
+Tensor Flow - if you did not know, is a system on which neural networks run similar to how humans and cats use Microsoft Windows.
+Stuff like ChatGPT and Stable Diffusion image generator can run on Tensor Flow.
+A neural network does stuff like the (human) brain does, except in an engineered way.
+Stuff like - this is a circle, this is a line, put them together and then this is a nose, this is hair, these are glasses.
+And then classify and train stuff. The Neural Network may learn what is one thing and what one thing is not.
+Such as, say - give it 1M images of faces, classified as with long nose and with short nose, it will eventually know how new faces classify.
+And then, with a program that can generate faces, you can get it to generate "things" that look like faces, without truly copying parts.
+Just like a child could learn what a face looks like and can draw a face that does look somewhat like a face, but is not a face ever seen.
+It goes beyond this. This technology is able to take decisions. Most banks now use it to tap into simpletons' money from stock exchanges.
+Also many advanced justice systems use it to judge whether they should release people they hold or not.
+When I graduated Computer Science, I did use neural networks for recognizing handwritten characters (there was no Tensor Flow then).
+The way this functions is that there's an input connected to a network of simulated neurons connected to the output.
+In the training phase the this neural network does random guesses on whether their classification is this or that.
+If lucky, it gets rewarded and the weights on those neurons increases but if it mistakes, the weights get "punished".
+After a while the neural network "knows" to classify its original input, it might recognize input it never seen before.
